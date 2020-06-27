@@ -1,2 +1,1 @@
-# Trade-Bot---General-concepts
-Trading Platform
+# Trading Platform General-concepts
